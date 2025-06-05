@@ -50,7 +50,6 @@ B.Tech in Computer Science and Engineering (Artificial Intelligence)
 
 ## 📫 Contact Me
 
-- 📞 Phone: 7559903609  
 - 📧 Email: [devikasajith710@gmail.com](mailto:devikasajith710@gmail.com)  
 - 📍 Location: Aluva, Kerala, India
 
