@@ -69,19 +69,3 @@ I'm eager to contribute to AI-driven projects, collaborate with other developers
 
 ---
 
-📌 How to Use
-
-1. Create a new repository on GitHub with the exact same name as your username.
-
-
-2. Add a file named README.md.
-
-
-3. Paste the content above into that file.
-
-
-4. Commit and push the changes — your GitHub profile will now have a cool portfolio-style introduction!
-
-
-
-Would you like a version with more visuals (badges, icons, GitHub stats, etc.)?
