@@ -31,15 +31,16 @@ Built for underserved schools using **Google AI**, **Speech APIs**, and **Fireba
 
 
 ## 🌱 Currently Learning
-- Deep Learning (with PyTorch & TensorFlow)
+- Deep Learning 
 - System Design & Architecture
 - Advanced Flutter animations and state management
+
 
 
 ## 💬 Let's Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/devikasajith/)
 - 📝 [Blog/Portfolio Website](#coming-soon)
-- 📧 devika.sajith@email.com (replace with actual if public)
+- 📧 devikasajith710@gmail.com 
 
 
 
