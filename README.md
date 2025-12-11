@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Devika Sajith!
 
-🎓 Final Year B.Tech Student | 💻 Tech Enthusiast | 👩‍💻 Aspiring AI & Embedded Systems Developer
+🎓Third Year B.Tech Student | 💻 Tech Enthusiast | 👩‍💻 Aspiring AI & Embedded Systems Developer
 
 Welcome to my GitHub! I'm passionate about building impactful tech solutions — especially in **AI for Social Good**, **HealthTech**, and **Embedded Systems**. I believe in learning by doing, and many of my projects reflect that mindset.
 
