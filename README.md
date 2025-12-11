@@ -26,9 +26,6 @@ A smart health system combining wearable sensors and AI for elderly safety, buil
 ### 🧠 MoodDecode (Girlathon 2025 – 3rd Place)
 An **NLP-based backend system** that predicts emotional mood from user input. Developed under pressure with an amazing team!
 
-### 📚 Sahayak – AI Assistant for Multi-Grade Classrooms
-Built for underserved schools using **Google AI**, **Speech APIs**, and **Firebase** to generate localized, differentiated content.
-
 
 ## 🌱 Currently Learning
 - Deep Learning 
